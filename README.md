@@ -5,7 +5,7 @@ How I'd position, launch and enable sales for Honeycomb's MCP server, written af
 **Robert Larnyoh** · [robertlarnyoh.com](https://www.robertlarnyoh.com) · November 2026
 📄 [One-page PDF version](Robert_Larnyoh_Honeycomb_MCP_Sample.pdf)
 
-> This is an independent work sample for a job application. I'm not affiliated with Honeycomb. Everything in "What I found" comes from my own test on Honeycomb's sandbox sample data.
+> This is an independent work sample. I'm not affiliated with Honeycomb. Everything in "What I found" comes from my own test on Honeycomb's sandbox sample data.
 
 ---
 
